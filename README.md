@@ -1,4 +1,13 @@
-https://portfolio-3yis.vercel.app/
+
+
+<p align="center">
+  <a href="https://portfolio-3yis.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2336BCF7.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+</p>
+
 <!-- Clean Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=600&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Tejas;Fullstack+Developer" alt="Typing SVG" />
