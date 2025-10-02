@@ -37,3 +37,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejass1233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+---
+
+### 🤝 Let's Connect
+
+  #### Open to collaborating/answering queries on projects (including private ones).  
+
+
+
+  Discord:  frozen_flames_42059<br/>
+  Email: tsss1552@gmail.com
+
