@@ -1,62 +1,61 @@
-# Projects
-<details>
-<summary><b>AI Systems</b></summary>
+<div align="center">
 
-| Repository | Description |
-|---|---|
-| [Aetheris](https://github.com/TejasS1233/Aetheris) | High-performance, distributed anomaly detection and decision pipeline for processing high-volume financial event streams in real time. |
-| [food-delivery-dispatch](https://github.com/TejasS1233/food-delivery-dispatch) | Real-world dispatch simulation for food delivery operations, built for OpenEnv and the Meta PyTorch OpenEnv Hackathon. |
-| IASCIS | Autonomous, self-correcting multi-agent system that dynamically creates, profiles, and manages its own tools - executing in Docker sandboxes, discovering via semantic embeddings + knowledge graphs, and self-healing through reflection loops. |
-| [TAIL.ai](https://github.com/TejasS1233/TAIL.ai) | A living portfolio of agentic AI systems - bridging learning, art, and innovation. |
-| [sandboxing_agent](https://github.com/TejasS1233/sandboxing_agent) | A lightweight, autonomous sandboxed coding agent using Pure Python, Pydantic, and Docker. |
-| [security-bug-hunter](https://github.com/TejasS1233/security-bug-hunter) | An OpenEnv environment where agents learn to detect SQL injection, XSS, CSRF and other vulnerabilities through LLM-powered reinforcement learning. |
-| [AI-Enhanced-Driver-Wellness-Monitoring](https://github.com/TejasS1233/AI-Enhanced-Driver-Wellness-Monitoring) | Cabin video, steering data, and optional wearables to detect drowsiness or stress and suggest safe, non-distracting interventions. |
-| [Plantix](https://github.com/TejasS1233/Plantix) | Multi-agent AI system for crop disease diagnosis and farming guidance, built with CrewAI. |
+# Tejas Sidhwani
 
-</details>
+**AI & Data Science undergrad at TSEC, Mumbai**
 
-<details>
-<summary><b>RAG & LLM Applications</b></summary>
+I build AI systems and the tooling around them.
 
-| Repository | Description |
-|---|---|
-| [vectorless_RAG](https://github.com/TejasS1233/vectorless_RAG) | A production-ready, Neo4j Graph Database implementation of the PageIndex Vectorless RAG architecture. |
-| [multimodal_rag](https://github.com/TejasS1233/multimodal_rag) | Comparative study of specialised embedders versus multimodal Gemini 2 embeddings for retrieval-augmented generation across heterogeneous document types. |
-| [STT-TST-storyteller](https://github.com/TejasS1233/STT-TST-storyteller) | LangChain-powered story generator that transforms speech-to-text input into rich, contextual narratives using LLM orchestration and retrieval-augmented generation. |
-| HackSync | MIRAGE - lifelike, expressive AI avatars that listen, reason, speak, and visually react in an emotionally engaging manner. Focuses on synchronized multimodal interaction where speech, facial animation, and expressive feedback align naturally with AI reasoning. *(actual hackathon project is private)* |
+[Portfolio](https://tejassidhwani.me) · [Writing](https://dev.to/tejas1233) · [LinkedIn](https://linkedin.com/in/tejas-sidhwani1233) · [X](https://x.com/TejasS1233) · [Email](mailto:tejas.sidhwani@gmail.com)
 
-</details>
+</div>
 
-<details>
-<summary><b>Developer Tools and Libraries</b></summary>
+## Highlights
 
-| Repository | Description |
-|---|---|
-| [en-git](https://github.com/TejasS1233/en-git) | Transform your GitHub profile into actionable insights with advanced analytics, profile scoring, achievements, and a Chrome extension for code quality analysis and personalisation. |
-| [mcp-starter](https://github.com/TejasS1233/mcp-starter) | CLI tool for setting up MCP (Model Context Protocol) for Claude Code, OpenCode, and Cursor with preset servers, auth wiring, and config sync. |
-| [pubdev_mcp_bridge](https://github.com/TejasS1233/pubdev_mcp_bridge) | Auto-generates MCP servers for any pub.dev package - bridging the Dart ecosystem with Model Context Protocol tooling. |
-| [bricolage-ui](https://github.com/TejasS1233/bricolage-ui) | shadcn-inspired UI component library for Flutter - 40+ copy-paste components with visual theme design, downloadable code, and full customization. |
-| [RouteCraft](https://github.com/TejasS1233/RouteCraft) | Craft, configure, and test intricate network topologies seamlessly in your browser. |
+- **6k+ downloads** on [opencode-parser](https://www.npmjs.com/package/opencode-parser) (npm)
+- **Top 8%** globally on LeetCode
+- **1st** at Hackfest VIT '26 · **8th / 1,000+** at IICPC '26 · **Top 5** at HackaNova '26
+- **3rd** (AI & DS) at Innovatex '25 · **Top 3 Web** at HackBuild '25
+- Finalist at Meta PyTorch '26, HACKSYNC '26, RUBIX '26, and MINITHON '24
 
-</details>
+## Open Source
 
-<details>
-<summary><b>Full-Stack</b></summary>
+Merged PRs in **awslabs**, **sphireinc**, **Tracer-Cloud**, **heyaphra**, and **nst-sdc**:
 
-| Repository | Description |
-|---|---|
-| [TheErudition-GoogleSolutionChallenge](https://github.com/rakheOmar/TheErudition-GoogleSolutionChallenge) | AI-powered logistics control tower for the Google Solution Challenge - continuously monitors shipment risks, detects network disruptions, and leverages Gemini to recommend real-time compliant reroutes. |
-| [CiviSeva-TheErudition](https://github.com/TejasS1233/CiviSeva-TheErudition) | Smart India Hackathon 2025 entry - AI-powered platform bridging citizens and government through seamless reporting and intelligent, automated workflows. |
-| [Forensight-TheErudition](https://github.com/TejasS1233/Forensight-TheErudition) | Smart India Hackathon 2025 entry - AI-powered platform transforming digital forensics through multi-agent analysis, drastically reducing investigation times for law enforcement. |
-| [KisaanCredit](https://github.com/rakheOmar/KisaanCredit) | Full-stack 'Soil to Sale' ecosystem that digitizes and democratizes the carbon farming market for India's smallholder farmers. |
-| [hackbuild-Black-Lotus](https://github.com/GDGVITM/hackbuild-Black-Lotus) | VIT hackathon project - intelligent job discovery and routing platform matching candidates to opportunities using skill-based scoring and preference learning. |
-| Codeissance-25-TheErudition | Full-stack blood donation and blood bank management system - streamlining donor registration, inventory tracking, and request fulfillment for healthcare networks. |
-| [Resync](https://github.com/TejasS1233/Resync) | Track goals, journal daily, and stay focused - 100% local, your data stays on your machine. |
+- **[awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit)** — [#630](https://github.com/awslabs/graphrag-toolkit/pull/630) enforce `IntegrationTestBase` abstract methods
+- **[sphireinc/Foundry](https://github.com/sphireinc/Foundry)** — [#147](https://github.com/sphireinc/Foundry/pull/147) governed read-only MCP server
+- **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — [#1154](https://github.com/Tracer-Cloud/opensre/pull/1154) failure-path coverage for IMDS helpers
+- **[heyaphra/pubdev_mcp_bridge](https://github.com/heyaphra/pubdev_mcp_bridge)** — [#10](https://github.com/heyaphra/pubdev_mcp_bridge/pull/10) `list_extensions` and `get_extension` MCP tools
+- **[nst-sdc/StackMate](https://github.com/nst-sdc/StackMate)** — [#110](https://github.com/nst-sdc/StackMate/pull/110) plugin system with GitHub, ESLint, and testing
 
-</details>
+## Projects
 
-Open to collaborations, research, and building things that actually matter.
+**AI Agents**
+- [TAIL.ai](https://github.com/TejasS1233/TAIL.ai) — visual builder for AI agents
+- [pythia](https://github.com/TejasS1233/pythia) — Polymarket prediction swarm
+- [sandboxing_agent](https://github.com/TejasS1233/sandboxing_agent) — autonomous coding agent in Docker
 
-email: tejas.sidhwani@gmail.com
+**RAG & Retrieval**
+- [vectorless_RAG](https://github.com/TejasS1233/vectorless_RAG) — production Neo4j PageIndex RAG
+- [dualrag](https://github.com/TejasS1233/dualrag) — DualGraphRAG with Neo4j + ChromaDB
+- [multimodal_rag](https://github.com/TejasS1233/multimodal_rag) — multimodal embeddings comparison
+- [content-extraction](https://github.com/TejasS1233/content-extraction) — knowledge pipeline
 
-discord: frozen_flames_42059
+**Dev Tools**
+- [opencode-parser](https://github.com/TejasS1233/opencode-parser) — parse any file in opencode (npm)
+- [en-git](https://github.com/TejasS1233/en-git) — GitHub analytics + Chrome extension
+- [bricolage-ui](https://github.com/TejasS1233/bricolage-ui) — Flutter component library (pub.dev)
+- [commit_automation](https://github.com/TejasS1233/commit_automation) — AI git guard
+
+**Systems & Backend**
+- [Aetheris](https://github.com/TejasS1233/Aetheris) — financial anomaly detection pipeline
+- [Forge](https://github.com/TejasS1233/IICPC-hackathon) — matching-engine benchmarking
+- [arbitrage](https://github.com/TejasS1233/aribitrage_trading_system) — crypto price-gap monitor
+
+**Web & Apps**
+- [Resync](https://github.com/TejasS1233/Resync) — local-first productivity
+- [focuseed](https://github.com/TejasS1233/focuseed) — focus timer and living garden
+
+More experiments on [GitHub](https://github.com/TejasS1233?tab=repositories).
+
+Open to internships, collaborations, and research.
