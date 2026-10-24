@@ -22,40 +22,39 @@ I build AI systems and the tooling around them.
 
 Merged PRs in **awslabs**, **sphireinc**, **Tracer-Cloud**, **heyaphra**, and **nst-sdc**:
 
-- **[awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit)** — [#630](https://github.com/awslabs/graphrag-toolkit/pull/630) enforce `IntegrationTestBase` abstract methods
-- **[sphireinc/Foundry](https://github.com/sphireinc/Foundry)** — [#147](https://github.com/sphireinc/Foundry/pull/147) governed read-only MCP server
-- **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — [#1154](https://github.com/Tracer-Cloud/opensre/pull/1154) failure-path coverage for IMDS helpers
-- **[heyaphra/pubdev_mcp_bridge](https://github.com/heyaphra/pubdev_mcp_bridge)** — [#10](https://github.com/heyaphra/pubdev_mcp_bridge/pull/10) `list_extensions` and `get_extension` MCP tools
-- **[nst-sdc/StackMate](https://github.com/nst-sdc/StackMate)** — [#110](https://github.com/nst-sdc/StackMate/pull/110) plugin system with GitHub, ESLint, and testing
+- **[awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit)** - [#630](https://github.com/awslabs/graphrag-toolkit/pull/630) enforce `IntegrationTestBase` abstract methods
+- **[sphireinc/Foundry](https://github.com/sphireinc/Foundry)** - [#147](https://github.com/sphireinc/Foundry/pull/147) governed read-only MCP server
+- **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** - [#1154](https://github.com/Tracer-Cloud/opensre/pull/1154) failure-path coverage for IMDS helpers
+- **[heyaphra/pubdev_mcp_bridge](https://github.com/heyaphra/pubdev_mcp_bridge)** - [#10](https://github.com/heyaphra/pubdev_mcp_bridge/pull/10) `list_extensions` and `get_extension` MCP tools
+- **[nst-sdc/StackMate](https://github.com/nst-sdc/StackMate)** - [#110](https://github.com/nst-sdc/StackMate/pull/110) plugin system with GitHub, ESLint, and testing
 
-## Projects
+## Featured Projects
 
 **AI Agents**
-- [TAIL.ai](https://github.com/TejasS1233/TAIL.ai) — visual builder for AI agents
-- [pythia](https://github.com/TejasS1233/pythia) — Polymarket prediction swarm
-- [sandboxing_agent](https://github.com/TejasS1233/sandboxing_agent) — autonomous coding agent in Docker
+- [TAIL.ai](https://github.com/TejasS1233/TAIL.ai) - visual builder for AI agents
+- [pythia](https://github.com/TejasS1233/pythia) - Polymarket prediction swarm
+- IASCIS (under peer review) - self-correcting multi-agent system that builds and manages its own tools in Docker sandboxes
 
 **RAG & Retrieval**
-- [vectorless_RAG](https://github.com/TejasS1233/vectorless_RAG) — production Neo4j PageIndex RAG
-- [dualrag](https://github.com/TejasS1233/dualrag) — DualGraphRAG with Neo4j + ChromaDB
-- [multimodal_rag](https://github.com/TejasS1233/multimodal_rag) — multimodal embeddings comparison
-- [content-extraction](https://github.com/TejasS1233/content-extraction) — knowledge pipeline
+- [vectorless_RAG](https://github.com/TejasS1233/vectorless_RAG) - production Neo4j PageIndex RAG
+- [dualrag](https://github.com/TejasS1233/dualrag) - DualGraphRAG with Neo4j + ChromaDB
+- [multimodal_rag](https://github.com/TejasS1233/multimodal_rag) - multimodal embeddings comparison
 
 **Dev Tools**
-- [opencode-parser](https://github.com/TejasS1233/opencode-parser) — parse any file in opencode (npm)
-- [en-git](https://github.com/TejasS1233/en-git) — GitHub analytics + Chrome extension
-- [bricolage-ui](https://github.com/TejasS1233/bricolage-ui) — Flutter component library (pub.dev)
-- [commit_automation](https://github.com/TejasS1233/commit_automation) — AI git guard
+- [opencode-parser](https://github.com/TejasS1233/opencode-parser) - parse any file in opencode (npm)
+- [en-git](https://github.com/TejasS1233/en-git) - GitHub analytics + Chrome extension
+- [bricolage-ui](https://github.com/TejasS1233/bricolage-ui) - Flutter component library (pub.dev)
 
 **Systems & Backend**
-- [Aetheris](https://github.com/TejasS1233/Aetheris) — financial anomaly detection pipeline
-- [Forge](https://github.com/TejasS1233/IICPC-hackathon) — matching-engine benchmarking
-- [arbitrage](https://github.com/TejasS1233/aribitrage_trading_system) — crypto price-gap monitor
+- [Aetheris](https://github.com/TejasS1233/Aetheris) - large scale financial anomaly detection pipeline
+- [Forge](https://github.com/TejasS1233/IICPC-hackathon) - matching-engine benchmarking
+- [arbitrage](https://github.com/TejasS1233/aribitrage_trading_system) - autonomous crypto price-gap monitor across several exchanges and currencies
 
 **Web & Apps**
-- [Resync](https://github.com/TejasS1233/Resync) — local-first productivity
-- [focuseed](https://github.com/TejasS1233/focuseed) — focus timer and living garden
+- CiviSeva(SIH'25) - platform connecting citizens and government through automated reporting.
+- [Resync](https://github.com/TejasS1233/Resync) - local-first productivity
+- [focuseed](https://github.com/TejasS1233/focuseed) - focus timer and living garden
 
-More experiments on [GitHub](https://github.com/TejasS1233?tab=repositories).
+Do check out the other repos as well! 
 
 Open to internships, collaborations, and research.
